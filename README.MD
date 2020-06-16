@@ -1,4 +1,4 @@
-This extension allows you to export your Roll20 tables to Foundry VTT tables
+This script allows you to export your Roll20 tables to Foundry VTT tables
 
 # R20VTTABLES
 
